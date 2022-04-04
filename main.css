@@ -1,0 +1,23 @@
+    .main_section {
+        background-color: #7fffd4;
+        height: auto;
+    }
+    
+    .cell {
+        width: calc(100% / 10);
+        border: 1px solid black;
+        aspect-ratio: 1 / 1;
+        color: rgb(0, 0, 0);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .container_grid {
+        width: 500px;
+        height: auto;
+    }
+    
+    .on_click {
+        background-color: #549be6;
+    }
